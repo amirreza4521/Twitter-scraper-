@@ -7,7 +7,7 @@ __pycache__/
 
 # IDE
 .idea/
-
+.junie/
 # OS
 .DS_Store
 Thumbs.db
