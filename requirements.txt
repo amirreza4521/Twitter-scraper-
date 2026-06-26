@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+selenium
+flask
+flask-cors
+python-dotenv
